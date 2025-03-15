@@ -3,10 +3,7 @@
   <info>
     <title>Hust-graduate</title>
     <title-short>NSFC</title-short>
-    <id>http://csl.mendeley.com/styles/659619311/hust-graduations</id>
-    <link href="http://www.zotero.org/styles/national-natural-science-foundation-of-china" rel="self"/>
-    <link href="http://www.zotero.org/styles/chinese-gb7714-2005-numeric" rel="template"/>
-    <link href="https://isisn.nsfc.gov.cn/egrantres/template/person/%E5%8F%82%E4%B8%8E%E4%BA%BA%E6%A8%A1%E6%9D%BF-%E9%80%9A%E7%94%A8.doc" rel="documentation"/>
+    <id>https://github.com/nanduo8yi/hust-graduate/edit/main/hust-graduations.csl</id>
     <author>
       <name>Jiongdd</name>
       <email>wangjiang07@foxmail.com</email>
